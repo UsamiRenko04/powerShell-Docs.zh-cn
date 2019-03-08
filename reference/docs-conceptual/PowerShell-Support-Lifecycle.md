@@ -11,7 +11,7 @@ ms.locfileid: "55677506"
 ---
 # <a name="powershell-core-support-lifecycle"></a>PowerShell Core 支持生命周期
 
-PowerShell Core 是独特的工具和组件集，该集从 Windows PowerShell 单独传输、安装和配置。
+PowerShell Core 是独特的工具和组件集，这部分从 Windows PowerShell 单独传输、安装和配置。
 因此，PowerShell Core 未包含在 Windows 7/8.1/10 或 Windows Server 许可协议。
 
 但是，PowerShell Core 受传统 Microsoft 支持协议支持，此类协议包括[顶级][]、[Microsoft 企业协议][enterprise-agreement]和 [Microsoft 软件保障][assurance]。
@@ -27,12 +27,12 @@ PowerShell Core 是独特的工具和组件集，该集从 Windows PowerShell �
 PowerShell Core 采用 [Microsoft 新式声明周期策略][modern]。
 此支持生命周期旨在使客户随时知悉最新版本。
 
-PowerShell Core 的版本 6.x 分支将会更新一次大约每六个月 (示例：6.0、 6.1、 6.2 等。)
+PowerShell Core 的版本 6.x 分支将会大约每六个月更新一次 (示例：6.0、 6.1、 6.2 等。)
 
 > [!IMPORTANT]
 > 必须在每个新次要版本发布后的六个月时间之内进行更新，然后方可继续获取支持。
 
-例如，如果 PowerShell Core 6.1 发布于 2018 年 7 月 1 日，你将需要按年 1 月 1，2019 若要维持支持更新到 PowerShell Core 6.1。
+例如，如果 PowerShell Core 6.1 发布于 2018 年 7 月 1 日，若要维持支持，你将需要在 2019 年 1 月 1 日 前更新到 PowerShell Core 6.1。
 
 ![PowerShell Core 分支生命周期][lifecycle-chart]
 
@@ -80,7 +80,7 @@ PowerShell Core 的版本 6.x 分支将会更新一次大约每六个月 (示例
 
 | 版本 | 生命周期结束                   |
 |---------|-------------------------------|
-| 6.0     | 2019 年 2 月 13日日             |
+| 6.0     | 2019 年 2 月 13 日             |
 | 6.1     | 6.2 版本后 6 个月   |
 
 ## <a name="platforms-which-are-out-of-support"></a>不支持的平台
